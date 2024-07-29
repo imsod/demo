@@ -18,7 +18,7 @@ What is Alt Text?
 
 Here is a real-world example in which you could use alt text: 
 
-![a student wearing sunglasses and headphones in the computer lab](images/image-student_using_screen_reader.png)
+![a student wearing sunglasses and headphones in the computer lab](images/image-smaller.png)
 
 You have a visually impaired student who relies on a screen reader to access content. If you include an image in your course slides, the screen reader will attempt to read the Alt Text associated with the image. Without helpful Alt Text, the student won't be able to understand the content as fully as sighted students.
 
