@@ -9,7 +9,7 @@
 ## Learning Objectives
 Through this page, you will learn how to: 
   - describe what **Alt Text** is.
-  - write effective **Alt Text**.
+  - write effective **Alt Texts**.
 
 What is Alt Text?
 ---
@@ -33,11 +33,16 @@ Writing Effective Alt Texts
 Then, how can we write a good Alt Text? 
 
 Consider these guidelines:
-- Brevity is key: Aim for 1-2 sentences.
-- Highlight essential details: Describe critical aspects of the image, such as the environment, actions, interactions, and facial expressions.
-- Avoid Redundant Phrases: Refrain from starting with "an image of" or "a picture of."
-- Specify the Type: Mention if the image is a logo, painting, cartoon, diagram, or chart.
-- For Decorative Images: If the image is purely decorative (e.g., stylistic borders), mark it as "decorative" or leave the alt attribute empty.
+- **Brevity is Key**
+    - Aim for 1-2 sentences.
+- **Highlight Essential Details**
+    - Describe critical aspects of the image, such as the environment, actions, interactions, and facial expressions.
+- **Avoid Redundant Phrases**
+    - Refrain from starting with "an image of" or "a picture of."
+- **Specify the Type**
+    - Mention if the image is a logo, painting, cartoon, diagram, or chart.
+- **For Decorative Images**
+    - If the image is purely decorative (e.g., stylistic borders), mark it as "decorative" or leave the alt attribute empty.
 
 Here are some examples.
 
