@@ -10,7 +10,6 @@
 Through this page, you will learn how to: 
   - describe what **Alt Text** is.
   - write effective **Alt Text**.
-  - apply **Alt Text** to images in different platforms (e.g., PowerPoint slides, Canvas pages).
 
 What is Alt Text?
 ---
@@ -61,9 +60,6 @@ Alt text: "Decorative."
 > Additional Resources for Writing Effective Alt Text
 >> - [Havard Digital Accessibility](https://accessibility.huit.harvard.edu/describe-content-images)
 >> 
->> - [University of South Carolina Digital Accessibility](https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/alternative_text/step-by-step-instructions-alt-text/index.php) 
-
-
-Applying Alt Text to Images in Different Platforms
----
-
+>> - [University of South Carolina Digital Accessibility](https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/alternative_text/step-by-step-instructions-alt-text/index.php)
+>>
+>> - [Indiana University University Information Technology Services](https://kb.iu.edu/d/arwg) 
