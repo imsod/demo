@@ -6,13 +6,13 @@
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
 </a>
 
-## Learning Objectives
+# Learning Objectives
 Through this page, you will learn how to: 
   - Describe what **Alt Text** is.
   - Write effective **Alt Texts**.
 
 What is Alt Text?
----
+===
 
 **Alternative (Alt) Text** is a brief, descriptive text that provides an alternative to visual content.
 
@@ -28,7 +28,7 @@ By incorporating Alt Text, instructors can create more accessible, inclusive, an
 > A screen reader is a type of assistive technology that reads aloud the text and descriptions of images that are displayed on a computer screen.  They are essential for blind or visually impaired people to access and interact with computers and digital content.
 
 Writing Effective Alt Texts
----
+===
 
 Then, how can we write a good Alt Text? 
 
