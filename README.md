@@ -18,11 +18,9 @@ What is Alt Text?
 
 Consider this real-world example: 
 
-You have a student who is visually impaired and relies on a screen reader to access content.
-
 ![a student wearing sunglasses and headphones in the computer lab](images/image-student_using_screen_reader.png)
 
-You included an image on your course slides, and the screen reader will attempt to read the Alt Text added to the image. If you did not add an alt text, or if the alt text is not helpful, the student will not be able to understand the content fully as sighted students would do.
+Consider this real-world example: You have a visually impaired student who relies on a screen reader to access content. If you include an image in your course slides, the screen reader will attempt to read the Alt Text associated with the image. Without helpful Alt Text, the student won't be able to understand the content as fully as sighted students.
 
 By incorporating Alt Text, instructors can create more accessible, inclusive, and effective learning experiences for all students.
 
@@ -59,7 +57,5 @@ Alt text: "Decorative."
 
 > Additional Resources for Writing Effective Alt Text
 >> - [Havard Digital Accessibility](https://accessibility.huit.harvard.edu/describe-content-images)
->> 
 >> - [University of South Carolina Digital Accessibility](https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/alternative_text/step-by-step-instructions-alt-text/index.php)
->>
 >> - [Indiana University University Information Technology Services](https://kb.iu.edu/d/arwg) 
