@@ -48,17 +48,20 @@ Here are some examples.
 
 ![A student is sitting at a classroom table, holding a pen with a thick book and a notebook in front of him. About ten other students are sitting at their desks, listening to the instructor at the front of the room.](images/image-students_in_classroom.jpg)
 
-Alt text: "A student is sitting at a classroom table, holding a pen with a thick book and a notebook in front of him. About ten other students are sitting at their desks, listening to the instructor at the front of the room."
+**Alt text:**
+"A student is sitting at a classroom table, holding a pen with a thick book and a notebook in front of him. About ten other students are sitting at their desks, listening to the instructor at the front of the room."
 
 
 ![Multiple rows of sunflowers in a large field.](images/image-sunflowers_field.jpg)
 
-Alt text: "Multiple rows of sunflowers in a large field."
+**Alt text:**  
+"Multiple rows of sunflowers in a large field."
 
 
 ![decorative](images/image-decortaive.jpg) 
 
-Alt text: "Decorative."
+**Alt text:**  
+"Decorative."
 
 > Additional Resources for Writing Effective Alt Text
 >> - [Havard Digital Accessibility](https://accessibility.huit.harvard.edu/describe-content-images)
