@@ -8,19 +8,19 @@
 
 ## Learning Objectives
 Through this page, you will learn how to: 
-  - describe what **Alt Text** is.
-  - write effective **Alt Texts**.
+  - Describe what **Alt Text** is.
+  - Write effective **Alt Texts**.
 
 What is Alt Text?
 ---
 
 **Alternative (Alt) Text** is a brief, descriptive text that provides an alternative to visual content.
 
-Consider this real-world example: 
+Here is a real-world example in which you could use alt text: 
 
 ![a student wearing sunglasses and headphones in the computer lab](images/image-student_using_screen_reader.png)
 
-Consider this real-world example: You have a visually impaired student who relies on a screen reader to access content. If you include an image in your course slides, the screen reader will attempt to read the Alt Text associated with the image. Without helpful Alt Text, the student won't be able to understand the content as fully as sighted students.
+You have a visually impaired student who relies on a screen reader to access content. If you include an image in your course slides, the screen reader will attempt to read the Alt Text associated with the image. Without helpful Alt Text, the student won't be able to understand the content as fully as sighted students.
 
 By incorporating Alt Text, instructors can create more accessible, inclusive, and effective learning experiences for all students.
 
@@ -66,4 +66,6 @@ Here are some examples.
 > Additional Resources for Writing Effective Alt Text
 >> - [Havard Digital Accessibility](https://accessibility.huit.harvard.edu/describe-content-images)
 >> - [University of South Carolina Digital Accessibility](https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/alternative_text/step-by-step-instructions-alt-text/index.php)
->> - [Indiana University University Information Technology Services](https://kb.iu.edu/d/arwg) 
+>> - [Indiana University University Information Technology Services](https://kb.iu.edu/d/arwg)  
+
+
