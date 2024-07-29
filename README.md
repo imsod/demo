@@ -7,13 +7,10 @@
 </a>
 
 ## Learning Objectives
-> This is a one page article about **Alt Text**. 
->
->> After reading this article, you will be able to:
+> Through this page, you will learn how to: 
 >> - describe what **Alt Text** is.
 >> - write effective **Alt Text**.
->> - produce **Alt Text** in PowerPoint slides.
->> - produce **Alt Text** in Canvas pages.
+>> - apply **Alt Text** to images in different platforms (e.g., PowerPoint slides, Canvas pages).
 
 What is Alt text?
 ---
@@ -24,19 +21,15 @@ Imagine that you have a student with visual impairments, and the student uses a 
 !
 
 
-> #### Screen Reader
-> A screen reader is a type of assistive technology that reads aloud the text and descriptions of images that are displayed on a computer screen.  They are essential for blind or visually impaired people to access and interact with computers and digital content.
 
-
-You included an image on your course slides without adding an Alt Text.
-
-The screen reader will attempt to read the Alt Text added to the image but fail.
-
-The student will not be able to understand the content that sighted students can see.
+You included an image on your course slides, and the screen reader will attempt to read the Alt Text added to the image. If you did not add an alt text, or if the alt text is not helpful, the student will not be able to understand the content fully.
 
 By incorporating Alt Text, instructors can create more accessible, inclusive, and effective learning experiences for all students.
 
-Write good Alt Texts
+> #### Screen Reader
+> A screen reader is a type of assistive technology that reads aloud the text and descriptions of images that are displayed on a computer screen.  They are essential for blind or visually impaired people to access and interact with computers and digital content.
+
+Writing good Alt Texts
 ---
 
 Then, how can we write a good Alt Text?
